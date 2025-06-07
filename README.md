@@ -9,7 +9,7 @@ Power Query (for data cleaning & transformation)<br>
 DAX (Data Analysis Expressions) (for calculated measures and KPIs)<br>
 CSV File (as a data source)<br>
 4. Data Source<br>
-Dataset:<br>
+Dataset:https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024<br>
 Contains streaming metrics such as monthly listeners, total streams, genre classification, artist & album metadata, and platform type.<br>
 5. Data Categories<br>
 Artist & Album Details<br>
