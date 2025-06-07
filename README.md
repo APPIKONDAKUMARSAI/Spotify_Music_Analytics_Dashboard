@@ -1,6 +1,6 @@
 # Spotify_Music_Analytics_Dashboard<br>
 1. Project Title<br>
-Spotify Music Analytic Dashboard – 2024 Global Insights<br>
+Spotify Music Analytics Dashboard – 2024 Global Insights<br>
 2. Short Description<br>
 This Power BI dashboard provides an in-depth visual analysis of Spotify's 2024 global streaming data. It uncovers key metrics around<br> artists, albums, genres, listener behavior, and platform usage. Built for data storytelling and decision-making, this dashboard transforms<br> raw streaming data into actionable insights.<br>
 3. Tech Stack<br>
@@ -40,4 +40,4 @@ i. KPIs: Total Streams, Active Listeners, Avg Duration, Skip Rate<br>
 --> High skip rates are often associated with albums of slower pace or niche genres, offering feedback for artists and producers.<br>
 --> Album release activity peaked around early Q2 2024, aligning with major music festival seasons.<br>
 8. Screenshot Suggestions (you can capture these from Power BI)<br>
-Genre Distribution Pie Chart<br>
+https://github.com/APPIKONDAKUMARSAI/Spotify_Music_Analytics_Dashboard/blob/main/Spotify_Music_Analytics_Overview.PNG
